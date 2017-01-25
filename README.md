@@ -6,7 +6,6 @@ A simple Jekyll blog theme
 
 * ✓ Resposive layout
 * ✓ Preprocessor SASS
-* ✓ Pagination
 * ✓ Syntax highlight
 * ✓ Author config
 * ✓ Comments with Disqus
