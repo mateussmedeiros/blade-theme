@@ -1,0 +1,32 @@
+# Site settings
+title: Blade Theme
+description: A simple Jekyll blog theme developed by Mateus Medeiros 
+url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+twitter_username: mateussousam
+author:
+  name     : Mateus Medeiros
+  bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
+  email    : mateus.sousamedeiros@gmail.com
+  twitter  : https://twitter.com/mateussousam
+
+# Build settings
+permalink: /:title/
+markdown: kramdown
+paginate: 5
+paginate_path: "/blog/page/:num"
+
+gems:
+  - jekyll-feed
+  - jekyll-paginate
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+css_folder:  "/assets/css"
+js_folder:  "/assets/js"
+img_folder:  "/assets/img"
+sass:
+    style: compressed
