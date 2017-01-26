@@ -2,6 +2,8 @@
 
 A simple Jekyll blog theme 
 
+![Screenshot of theme](https://github.com/mateussmedeiros/blade-theme/blob/master/screenshot.png?raw=true)
+
 **This theme requires *ruby* and *rubygems* installed!**
 
 * ✓ Resposive layout
