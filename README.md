@@ -8,6 +8,7 @@ A simple Jekyll blog theme
 * ✓ Preprocessor SASS
 * ✓ Syntax highlight
 * ✓ Author config
+* ✓ Pagination
 * ✓ Comments with Disqus
 * ✓ Share posts
 
