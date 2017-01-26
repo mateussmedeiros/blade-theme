@@ -9,6 +9,7 @@ A simple Jekyll blog theme
 * ✓ Syntax highlight
 * ✓ Author config
 * ✓ Pagination
+* ✓ Search bar
 * ✓ Comments with Disqus
 * ✓ Share posts
 
