@@ -2,6 +2,7 @@
 title: Blade Theme
 description: A simple Jekyll blog theme developed by Mateus Medeiros 
 url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+base-url: /blade-theme/
 
 # Author settings
 twitter_username: mateussousam
