@@ -22,6 +22,10 @@ GEM
     jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.3.0)
       sass (~> 3.2)
+    jekyll-seo-tag (2.1.0)
+      jekyll (~> 3.3)
+    jekyll-sitemap (1.0.0)
+      jekyll (~> 3.3)
     jekyll-watch (1.3.0)
       listen (~> 3.0)
     kramdown (1.9.0)
@@ -47,6 +51,8 @@ DEPENDENCIES
   jekyll (= 3.3.1)
   jekyll-feed (~> 0.6)
   jekyll-paginate (~> 1.1)
+  jekyll-seo-tag
+  jekyll-sitemap
   sass (~> 3.4, >= 3.4.19)
 
 RUBY VERSION

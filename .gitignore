@@ -1,3 +1,5 @@
 _site
 .sass-cache
 .jekyll-metadata
+blade-theme-1.0.2.gem
+blade-theme.gemspec
