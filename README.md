@@ -14,6 +14,7 @@ A simple Jekyll blog theme
 * ✓ Search bar
 * ✓ Comments with Disqus
 * ✓ Share posts
+* ✓ Sitemap and seo tags
 
 -----
 
