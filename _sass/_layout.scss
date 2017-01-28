@@ -122,15 +122,14 @@
         color: $white;
     }
 
-    a {
+    a, p {
         display: block;
         margin: 10px;
         color: $white;
-
-        &:hover {
-            color: $blue;
-            text-decoration: underline;
-        }
+  
+    a:hover {
+        color: $blue;
+        text-decoration: underline;
     }
 }  
 
