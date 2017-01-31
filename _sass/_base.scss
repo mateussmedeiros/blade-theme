@@ -68,6 +68,13 @@ h4, h5, h6 {
     text-transform: uppercase;
 }
 
+/*----------
+---- Hr ----
+----------*/
+hr {
+    margin: 10px 0;
+}
+
 /*-------------
 ---- Links ----
 -------------*/
@@ -87,10 +94,28 @@ ul {
 }
 
 ul, ol {
-    padding-left: 20px;
+    padding-left: 50px;
 
     li {
         padding: 5px 0;
+    }
+}
+
+/*--------------
+---- Tables ----
+--------------*/
+table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all; // For Firefox to horizontally scroll wider tables.
+    -webkit-overflow-scrolling: touch;
+
+    th, td {
+      padding: 0.5rem 1rem;
+      border: 1px solid $black;
+      text-align: center;
     }
 }
 
@@ -100,23 +125,8 @@ ul, ol {
 img {
     max-width: 100%;
     vertical-align: middle;
-}
-
-figure > img {
     display: block;
-}
-
-.center {
-  display: block;
-  margin: 0 auto;
-}
-
-.right {
-  float: right;
-}
-
-.left {
-  float: left;
+    margin: 0 auto;
 }
 
 /*-------------------
@@ -127,6 +137,7 @@ blockquote {
     font-size: 16pt;
     letter-spacing: -1px;
     font-style: italic;
+    padding-left: 10px;
 
     > :last-child {
         margin-bottom: 0;

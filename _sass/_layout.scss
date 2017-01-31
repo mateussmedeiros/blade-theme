@@ -127,7 +127,7 @@
         margin: 10px;
         color: $white;
     }
-  
+
     a:hover {
         color: $blue;
         text-decoration: underline;
@@ -174,7 +174,7 @@
     display: block;
     margin: 0 auto;
     padding: 35px 30px;
-    max-width: 1200px;
+    max-width: 1000px;
 }
 
 .post-content {
@@ -186,6 +186,11 @@
 .post-list {
     list-style: none;
     padding: 0;
+}
+
+.post-date {
+    font-size: 12pt;
+    font-weight: 300;
 }
 
 .post-container {
