@@ -2,7 +2,7 @@
  
 Gem::Specification.new do |spec|
   spec.name          = "blade-theme"
-  spec.version       = "1.1.1"
+  spec.version       = "1.2.1"
   spec.authors       = ["Mateus Medeiros"]
   spec.email         = ["mateus.sousamedeiros@gmail.com"]
  
