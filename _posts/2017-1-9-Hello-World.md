@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Example content"
-date:   2017-01-31 09:00:09 -0200
-description: Example.
-permalink: /example/
+title: First Post
+date: 2017-01-09
+description: My first post in Jekyll blog
+permalink: /2017/01/09/Hello-World/
 ---
-
 # H1 - A First Level Header
 
 ## H2- A Second Level Header 
