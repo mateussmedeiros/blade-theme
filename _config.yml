@@ -1,22 +1,18 @@
 # Site settings
-title: Blade Theme
-description: A simple Jekyll blog theme developed by Mateus Medeiros 
-url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+title: KIM JISUN
+description: NHNEnt. Intern
+url: "https://wisesun93.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author:
-  name     : Mateus Medeiros
-  bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
-  email    : mateus.sousamedeiros@gmail.com
-  twitter  : https://twitter.com/mateussousam
+  name     : 김지선
+  bio      : NHNEnt. Intern
+  email    : wisesun93@gmail.com
+  instagram  : https://www.instagram.com/jsunny.kim/
 
 #SEO settings
-logo: /assets/img/img-blog.png/ # Site logo URL
-twitter_username: mateussousam # Twitter username
-facebook:
-    app_id: 1445035275808959 # App ID
-    publisher: https://www.facebook.com/mateus.sousamedeiros # URL of the Facebook page
-    admins: 100000229048939 # Facebook user ID that manages the page
+logo: /assets/img/image-blog.png/ # Site logo URL
+instagram_username: jsunny.kim # instagram username
 
 # Build settings
 permalink: /:title/
@@ -37,5 +33,7 @@ exclude:
 css_folder:  "/assets/css"
 js_folder:  "/assets/js"
 img_folder:  "/assets/img"
+font_folder: "/assets/font"
+
 sass:
     style: compressed
