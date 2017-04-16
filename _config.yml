@@ -5,18 +5,17 @@ url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & proto
 
 # Author settings
 author:
-  name     : Mateus Medeiros
-  bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
-  email    : mateus.sousamedeiros@gmail.com
-  twitter  : https://twitter.com/mateussousam
+  name     : Minho Park
+  bio      : DevOps Engineer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
+  email    : minopark8821@gmail.com
 
 #SEO settings
 logo: /assets/img/img-blog.png/ # Site logo URL
 twitter_username: mateussousam # Twitter username
 facebook:
-    app_id: 1445035275808959 # App ID
-    publisher: https://www.facebook.com/mateus.sousamedeiros # URL of the Facebook page
-    admins: 100000229048939 # Facebook user ID that manages the page
+    app_id:  # App ID
+    publisher:  # URL of the Facebook page
+    admins:  # Facebook user ID that manages the page
 
 # Build settings
 permalink: /:title/
