@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "First post"
+date:   2017-04-16 12:00:00 -0200
+description: Life
+permalink: /Life/
+---
+
+Git을 만들고 계속해서 블로그를 만들었지만 실제로 Jekyll Theme만 적용하고 운영은 하지 못했다.
+(바쁘다는 핑계로 계속 미룸)
+
+최근에 방황하던 나의 Career에 확실한 목표가 생겼고, 강제 동기부여를 위해 개인 서버를 구매했는데,
+서버에 대한 기록들, 그리고 이 서버를 이용한 서비스들(DevOps환경 구축 등)에 대해서 정리하고, 개발이슈와 개인 일상 기록들을 남겨보고자 한다.
+
+- - -
+
+### Blockquote
+
+> If you have great talents, industry will improve them;
+> if you have but moderate abilities, industry will supply their deficiency.
+> -Joshua Reynolds
