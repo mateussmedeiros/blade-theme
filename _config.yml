@@ -1,7 +1,7 @@
 # Site settings
-title: Blade Theme
-description: A simple Jekyll blog theme developed by Mateus Medeiros 
-url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+title: Minguss Tech Blog
+description: Posting on Java, DevOps etc.. Technical post
+url: "http://minguss821.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author:
@@ -11,7 +11,7 @@ author:
 
 #SEO settings
 logo: /assets/img/img-blog.png/ # Site logo URL
-twitter_username: mateussousam # Twitter username
+twitter_username: minguss821 # Twitter username
 facebook:
     app_id:  # App ID
     publisher:  # URL of the Facebook page
