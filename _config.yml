@@ -1,21 +1,21 @@
 # Site settings
-title: Blade Theme
-description: A simple Jekyll blog theme developed by Mateus Medeiros 
-url: "http://mateussmedeiros.github.io/blade-theme/" # the base hostname & protocol for your site, e.g. http://example.com
+title: 엘비의 기억 저장소
+description: 일을 하는 것도 중요하지만 그에 못지 않게, 일을 어떻게 하느냐도 중요하다.
+url: "http://linebird.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
 author:
-  name     : Mateus Medeiros
+  name     : 유진수
   bio      : Front End Developer passionate about new technologies. I am passionate about what I do and I try to learn more every day.
-  email    : mateus.sousamedeiros@gmail.com
-  twitter  : https://twitter.com/mateussousam
+  email    : linebird71@gmail.com
+  twitter  : https://twitter.com/linebird
 
 #SEO settings
 logo: /assets/img/img-blog.png/ # Site logo URL
-twitter_username: mateussousam # Twitter username
+twitter_username: linebird # Twitter username
 facebook:
     app_id: 1445035275808959 # App ID
-    publisher: https://www.facebook.com/mateus.sousamedeiros # URL of the Facebook page
+    publisher: https://www.facebook.com/linebird71 # URL of the Facebook page
     admins: 100000229048939 # Facebook user ID that manages the page
 
 # Build settings
