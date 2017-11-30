@@ -3,7 +3,6 @@ layout: post
 title:  "Example content"
 date:   2017-01-31 09:00:09 -0200
 description: Example.
-permalink: /example/
 ---
 
 # H1 - A First Level Header
