@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "테스트로 "
+title:  "첫번째 블로그"
 date:   2017-11-30 11:52:00
-description: 테스트
+description: 깃허브에 생성한 첫번째 블로그
+permalink: /git/firstpost
 ---
-
-# H1 - A First Level Header
+우리나라에서는 많은 개발자들이 티스토리로 기술블로그를 사용하는 것 같다. 
+나는 시대에 뒤떨어지게 아직도 네이버 블로그를 생성하여 잡다한 정리를 하고 있던 터에 github 블로그를 알게되어, 몇 시간 투자를 하여 개설 완료!
+markdown으로 글을 작성할 수 있다는 것과 내 마음대로 contents를 만들 수 있다는 것이 우선 장점으로 보인다.
+앞으로 더 글을 올리고 사용하며 개선해야겠다.
