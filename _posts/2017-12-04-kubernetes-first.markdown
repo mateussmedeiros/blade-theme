@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Example content"
+title:  "kubernetes "
 date:   2017-12-04 10:00:00
 permalink: /docker/kubernetes01/
 description: kubernetes 개요
