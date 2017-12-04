@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "kubernetes "
+title:  "kubernetes란?"
 date:   2017-12-04 10:00:00
 permalink: /docker/kubernetes01/
 description: kubernetes 개요
 ---
 
-# H1 - kubernetes란?
+# kubernetes란?
 그동안의 게으름을 탓하려는지 회사에서 kubernetes 관련업무가 주어졌다.  
 kubernetes? 대강 떠오르는 생각은 구글에서 만든 docker와 관련된 어플리케이션 정도.  
 그럼 docker는? 들어보기만하고 미루어왔던 기술들에 대한 업무가 주어져서 부담도 되지만 기대로 된다.  
