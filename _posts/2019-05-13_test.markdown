@@ -2,7 +2,7 @@
 layout: post
 title:  "2019-05-13 Test"
 date:   2019-05-13 10:00:00
-permalink: /docker/kubernetes01/
+permalink: /docker/test/001
 description: 라라라 테스트 입니다.
 ---
 
